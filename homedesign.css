@@ -104,7 +104,7 @@ section {
 }
 
 .umhistory {
-  overflow-y: auto;
+  overflow-y: hidden;
 }
 
 .home {
