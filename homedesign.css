@@ -83,7 +83,7 @@ section {
   width: 100%;
 }
 
-.business, .family, .comscie, .university-section, .umhistory, .magazine, .home, .about, .products, .events, .contacts {
+.os, .business, .family, .comscie, .university-section, .umhistory, .magazine, .home, .about, .products, .events, .contacts {
   background-position: center;
   background-repeat: no-repeat;
   background-color: black;
